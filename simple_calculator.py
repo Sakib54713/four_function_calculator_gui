@@ -149,14 +149,6 @@ def calculate(t):
             display_update("Error")
             reset()
 
-# display update function
-def display_update(t):
-    display_box.configure(state="normal")
-    display_box.delete(0, "end")
-    display_box.insert(0, t)
-    display_box.configure(state="readonly")
-
-
 
 # keeping the main window
 root.mainloop()
