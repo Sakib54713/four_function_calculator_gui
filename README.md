@@ -5,7 +5,7 @@
 ### Description:
 This is a python GUI-based project of a four-funtion calculator stylized like iPhone's calculator app.
 
-### Moduels Used:
+### Modules Used:
 - customtkinter (to make it GUI)
 
 ### How It Works:
